@@ -1,5 +1,6 @@
 # udacity-DLNP
-This repository contains all of my projects for Udacity/Data Deep Learning Nanodegree Program. &nbsp;&nbsp;
+This repository contains all of my projects for Udacity/Data Deep Learning Nanodegree Program.
+
 I hope that my projects help to another student's study as a good reference.
 
 ByeongKeon Kim (skysign at gmail.com)
